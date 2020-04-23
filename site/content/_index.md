@@ -1,6 +1,6 @@
 ---
-title: "Business Name Contests"
-subtitle: We give you a great name 1. Namers Submit Names 2. We Rank Names 3. You Choose a Winner
+title: "Business Naming Contests"
+subtitle: 1. Namers Submit Names 2. We Rank Names 3. You Choose a Winner
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why KEYSOME?
