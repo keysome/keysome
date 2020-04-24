@@ -14,7 +14,7 @@ products:
     - image: img/illustrations-coffee.svg
       text: "Our in-house market research ranks the name submissions from top to bottom. You are delivered a list of names with the very best names at the top."
     - image: /img/illustrations-coffee-gear.svg
-      text: "Your ranked name list, with trademark, domain name, and social media username availability is delivered. You pick a winning name and we pay the award."
+      text: "Your ranked name list, with trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."
 values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
