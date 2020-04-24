@@ -9,9 +9,8 @@ intro:
     heading: "What we offer"
     text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
 products:
-    - heading: Step1
-      image: img/electricity.svg
-      title: Step1X
+    - image: img/electricity.svg
+      heading: "Step1"
       text: "The worlds most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
     - image: img/star.svg
       text: "Our in-house market research ranks the name submissions from top to bottom. You are delivered a list of names with the very best names at the top."
