@@ -10,13 +10,11 @@ intro:
     text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
 products:
     - image: img/illustrations-coffee.svg
-      title: "Step1"
-      text: "The worlds most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
+      text: "Step1 The worlds most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
     - image: img/illustrations-coffee.svg
-      title: "Step2"
       text: "Our in-house market research ranks the name submissions from top to bottom. You are delivered a list of names with the very best names at the top."
     - image: /img/illustrations-coffee-gear.svg
-      title: "Step3"
+      title: Step3
       text: "Your ranked name list, w/ trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."
 values:
     heading: Our values
