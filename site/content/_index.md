@@ -1,13 +1,13 @@
 ---
 title: "Business Naming Contests"
-subtitle: 1. Namers Submit Names 2. We Rank Names 3. You Choose a Winner
+subtitle: 1. Namers Submit Names    2. We Rank Names   3. You Choose a Winner
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why KEYSOME?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
 products:
     - image: img/illustrations-coffee.svg
       text: "The worlds most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
