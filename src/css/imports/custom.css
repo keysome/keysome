@@ -1,13 +1,13 @@
 .bg-white { background-color : white !important; }
 /* .grey-3 { color: black !important; } */
 .pv5 .pv6-l .ph3 .bg-center .cover { 
--webkit-filter: blur(5px);
--moz-filter: blur(5px);
--o-filter: blur(5px);
--ms-filter: blur(5px);
-filter: blur(5px); }
-.mw7 .center .ph3 { -webkit-filter: blur(0px);
--moz-filter: blur(0px);
--o-filter: blur(0px);
--ms-filter: blur(0px);
-filter: blur(0px); }
+-webkit-filter: blur(5px) !important;
+-moz-filter: blur(5px) !important;
+-o-filter: blur(5px) !important;
+-ms-filter: blur(5px) !important;
+filter: blur(5px) !important; }
+.mw7 .center .ph3 { -webkit-filter: blur(0px) !important;
+-moz-filter: blur(0px) !important;
+-o-filter: blur(0px) !important;
+-ms-filter: blur(0px) !important;
+filter: blur(0px) !important; }
