@@ -1,2 +1,13 @@
 .bg-white { background-color : white !important; }
 /* .grey-3 { color: black !important; } */
+.pv5 .pv6-l .ph3 .bg-center .cover { 
+-webkit-filter: blur(1px);
+-moz-filter: blur(1px);
+-o-filter: blur(1px);
+-ms-filter: blur(1px);
+filter: blur(1px); }
+.mw7 .center .ph3 { -webkit-filter: blur(0px);
+-moz-filter: blur(0px);
+-o-filter: blur(0px);
+-ms-filter: blur(0px);
+filter: blur(0px); }
