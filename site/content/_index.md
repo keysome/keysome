@@ -10,7 +10,7 @@ intro:
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
-      text: "The world's most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
+      text: "The world\'s most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
     - image: img/illustrations-coffee.svg
       text: "Our in-house market research ranks the name submissions from top to bottom. You are delivered a list of names with the very best names at the top."
     - image: /img/illustrations-coffee-gear.svg
