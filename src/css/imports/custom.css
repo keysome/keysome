@@ -2,9 +2,9 @@
 /* .grey-3 { color: black !important; } */
 .portfolioX {
     width: 100%;
-    /* padding: 10px; */
+    padding: 5px;
     background-color: #f1f1f0;
     border: 1px solid #dcdcda;
     text-align: center;
-    /* margin-bottom: 30px; */
+    margin: 10px; 
 }
