@@ -177,4 +177,3 @@ values:
       You can learn more about the progress on our blog posts.
     imageUrl: /img/about-reinvest-profits.jpg
 ---
-
