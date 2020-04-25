@@ -4,8 +4,7 @@
     <p class="mb4 mw6">{{.intro.text}}</p>
 
     {{ $var := 1 }}
-    {{ add $var 1 }}
-      {{ if $var }}
+      {{ if $var > 0 }}
         {{ $var = $var + 2 }}
       {{ end }}
     Var is {{ $var }}
