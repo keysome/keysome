@@ -8,7 +8,7 @@
     border: 2px solid #dcdcda;
     text-align: center;
     margin-bottom: 10px;
-    line-height: 0px !important;
+    line-height: 0.25px !important;
 }
 /* @media (min-width: 768px) { .products { width: 50% !important; } } */ 
 .portfolioX:nth-child(2n) {  background-color: #f7f7f7 !important; } 
