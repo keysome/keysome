@@ -150,7 +150,7 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
-values:
+valuesX:
   - heading: 1,000+ Names
     text: We create over 1,000 names on premium name contests. Over 500 Namers will
       compete on your contest. Our naming experts have a wide range of
