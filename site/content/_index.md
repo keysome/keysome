@@ -18,9 +18,8 @@ productsX:
       zX: "2 Days"
       text: "Our in-house market research ranks the name submissions from top to bottom. You are delivered a list of names with the very best names at the top.."
     - image: /img/cup.svg
-      hX: "Step2"
+      hX: "Step3"
       zX: "2 Days"
-      title: Step3
       text: "Your ranked name list, w/ trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."
 blurbX:
     heading: What's XXX
