@@ -40,7 +40,7 @@ products:
       two: "Tagline 3"
       three: "OurName 3"
       link: "/products"
-     - one: "Business Name 3"
+    - one: "Business Name 3"
       two: "Tagline 3"
       three: "OurName 3"
       link: "/products"     
