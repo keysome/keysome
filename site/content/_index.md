@@ -10,6 +10,21 @@ intro:
     text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
 products:
     - image: img/electricity.svg
+      heading: "Step1"
+      text: "XXX"
+    - image: img/star.svg
+      text: "XXXX."
+    - image: /img/cup.svg
+      title: Step3
+      text: "XXX"
+blurb:
+    heading: What's XXX
+    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+intro:
+    heading: "What we offer"
+    text: "XXX"
+products:
+    - image: img/electricity.svg
       hX: "Step1"
       zX: "7 Days"
       text: "The worlds most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
@@ -20,22 +35,7 @@ products:
     - image: /img/cup.svg
       hX: "Step3"
       zX: "3 Days"
-      text: "Your ranked name list, w/ trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."
-blurb:
-    heading: What's XXX
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "XXX"
-products:
-    - image: img/electricity.svg
-      heading: "Step1"
-      text: "XXX"
-    - image: img/star.svg
-      text: "XXXX."
-    - image: /img/cup.svg
-      title: Step3
-      text: "XXX"
+      text: "Your ranked name list, w/ trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."      
 blurb:
     heading: XXX
     text: "XXX"
