@@ -9,4 +9,4 @@
     margin: 10px; 
 }
 /* @media (min-width: 768px) { .products { width: 50% !important; } } */\
-.portfolioX:nth-child(3n) {  background: yellow !important; }
+.portfolioX:nth-child(3n) {  background-color: yellow !important; }
