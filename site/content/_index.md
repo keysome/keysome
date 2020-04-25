@@ -36,7 +36,7 @@ products:
       two: "Tagline 2"
       three: "OurName 2"
       link: "/products"
-     - one: "Business Name 3"
+    - one: "Business Name 3"
       two: "Tagline 3"
       three: "OurName 3"
       link: "/products"
