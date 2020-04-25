@@ -1,7 +1,7 @@
 .bg-white { background-color : white !important; }
 /* .grey-3 { color: black !important; } */
 .portfolioX {
-    width: 33.33% !important;
+    width: 33% !important;
     padding: 10px;
     display: inline-table;
     background-color: #f1f1f0;
@@ -10,4 +10,4 @@
     margin: 10px;
 }
 /* @media (min-width: 768px) { .products { width: 50% !important; } } */ 
-.portfolioX:nth-child(3n) {  background-color: yellow !important; } 
+.portfolioX:nth-child(2n) {  background-color: #f5f3f2 !important; } 
