@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 blurb:
     heading: Why KEYSOME?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
+introX:
     heading: "What we offer"
     text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
 products:
