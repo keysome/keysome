@@ -18,7 +18,7 @@ products:
       title: Step3
       text: "Your ranked name list, w/ trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."
 blurb:
-    heading: Why KEYSOME?
+    heading: Why KEYSOME? 
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "What we offer"
