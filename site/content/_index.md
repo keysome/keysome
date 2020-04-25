@@ -10,13 +10,18 @@ intro:
     text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
 products:
     - image: img/electricity.svg
-      heading: "Step1"
-      text: "XXX"
+      hX: "Step1"
+      zX: "7 Days"
+      text: "The worlds most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
     - image: img/star.svg
-      text: "XXXX."
+      hX: "Step2"
+      zX: "2 Days"
+      text: "Our in-house market research ranks the name submissions from top to bottom. You are delivered a list of names with the very best names at the top.."
     - image: /img/cup.svg
+      hX: "Step2"
+      zX: "2 Days"
       title: Step3
-      text: "XXX"
+      text: "Your ranked name list, w/ trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."
 blurb:
     heading: What's XXX
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
@@ -27,15 +32,15 @@ products:
     - image: img/electricity.svg
       hX: "Step1"
       zX: "7 Days"
-      text: "The worlds most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
+      text: ""
     - image: img/star.svg
       hX: "Step2"
       zX: "2 Days"
-      text: "Our in-house market research ranks the name submissions from top to bottom. You are delivered a list of names with the very best names at the top."
+      text: ""
     - image: /img/cup.svg
       hX: "Step3"
       zX: "3 Days"
-      text: "Your ranked name list, w/ trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."      
+      text: ""      
 blurb:
     heading: XXX
     text: "XXX"
