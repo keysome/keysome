@@ -3,9 +3,10 @@
     <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
     <p class="mb4 mw6">{{.intro.text}}</p>
 
-    {{ $var := "Hugo Page" }}
-      {{ if .IsHome }}
-        {{ $var = "Hugo Home" }}
+    {{ $var := 1 }}
+    {{ add $var 1 }}
+      {{ if $var }}
+        {{ $var = $var + 2 }}
       {{ end }}
     Var is {{ $var }}
     
