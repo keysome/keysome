@@ -164,7 +164,7 @@ valuesX:
   - heading: Name Check
     text: Submitted names are checked for trademark status, domain name
       registration, and social media username availability on standard name
-      contests.
+      contests
     imageUrl: /img/about-sustainable-farming.jpg
   - heading: No Duplicates
     text: Our duplicate name detection means your submissions won't be repetitive.
