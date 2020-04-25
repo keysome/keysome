@@ -8,7 +8,7 @@ blurb:
 introX:
     heading: "What we offer"
     text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
-products:
+productsX:
     - image: img/electricity.svg
       hX: "Step1"
       zX: "7 Days"
