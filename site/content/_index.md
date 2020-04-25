@@ -28,18 +28,18 @@ intro:
     heading: "What we offer"
     text: "XXX"
 products:
-    - image: img/electricity.svg
-      hX: "Step1"
-      zX: "7 Days"
-      text: ""
-    - image: img/star.svg
-      hX: "Step2"
-      zX: "2 Days"
-      text: ""
-    - image: /img/cup.svg
-      hX: "Step3"
-      zX: "3 Days"
-      text: ""      
+    - one: "Business Name 1"
+      two: "Tagline 1"
+      three: "OurName 1"
+      link: "/products"
+    - one: "Business Name 2"
+      two: "Tagline 2"
+      three: "OurName 2"
+      link: "/products"
+     - one: "Business Name 3"
+      two: "Tagline 3"
+      three: "OurName 3"
+      link: "/products"
 values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
