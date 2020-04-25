@@ -7,7 +7,7 @@
     background-color: #f1f1f0;
     border: 2px solid #dcdcda;
     text-align: center;
-    margin: 10px;
+    margin-bottom: 10px;
 }
 /* @media (min-width: 768px) { .products { width: 50% !important; } } */ 
-.portfolioX:nth-child(2n) {  background-color: #f5f3f2 !important; } 
+.portfolioX:nth-child(2n) {  background-color: yellow !important; } 
