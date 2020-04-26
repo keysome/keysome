@@ -161,7 +161,7 @@ pricing:
         - You choose the winner
       plan: Budget
       price: '99'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: 'Serious about naming your startup?'
       items:
         - $100 prize for the winner
         - Usually 800+ names
@@ -172,7 +172,7 @@ pricing:
         - You choose winners
       plan: Standard
       price: '299'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Need 1000s of suggestions?
       items:
         - $200 prize for winner
         - Usually 1,000+ names
