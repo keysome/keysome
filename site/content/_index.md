@@ -4,7 +4,7 @@ subtitle: 1. Namers Submit Names    2. We Rank Names   3. You Choose a Winner
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why KEYSOME?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "Our unique approach allows you to receive an unmatched breadth of business name ideas from world's largest community of naming experts. Find the perfect name for your brand and ensure you receive more ideas from our top-quality creatives and pick your name with confidence."
 introX:
     heading: "What we offer"
     text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
@@ -12,7 +12,7 @@ productsX:
     - image: img/electricity.svg
       hX: "Step1"
       zX: "7 Days"
-      text: "The worlds most creative Namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
+      text: "The worlds most creative namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
     - image: img/star.svg
       hX: "Step2"
       zX: "2 Days"
@@ -20,7 +20,7 @@ productsX:
     - image: /img/cup.svg
       hX: "Step3"
       zX: "2 Days"
-      text: "Your ranked name list, w/ trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."
+      text: "Your ranked name listed are checked for trademarks, domain name availability. You pick a winning name and winner gets paid."
 blurbX:
     heading: How?
     text: "We utilize crowdsourced expert namers to accomplish a task normally solved by an branding agency at a more affordable budget. KEYSOME helps clients pool suggestions for a creative name for their startup, business, product, or website."
