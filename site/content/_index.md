@@ -22,8 +22,8 @@ productsX:
       zX: "2 Days"
       text: "Your ranked name list, w/ trademark, domain name, and social media username availability is delivered. You pick a winning name & winner gets paid."
 blurbX:
-    heading: What's XXX
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: How?
+    text: "We utilize crowdsourced expert namers to accomplish a task normally solved by an branding agency at a more affordable budget. KEYSOME helps clients pool suggestions for a creative name for their startup, business, product, or website."
 intro:
     heading: "Naming Services Portfolio"
     text: "View all our crowdsourced business name contests"
