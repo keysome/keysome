@@ -81,10 +81,7 @@ values:
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Your brand is a long-term commitment, so make sure it shows off your personality. Do you know your target audience? What are you chasing? With a great name, it's your time to be right. KEYSOME helps you find a name that sticks. If your brand name isn't up to scratch, then you'll miss out on traffic and conversions & make your business will always stand out. 
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
