@@ -160,7 +160,7 @@ pricing:
         - Usually 500-1K unique Namers
         - You choose the winner
       plan: Budget
-      price: '100'
+      price: '99'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
         - $100 prize for the winner
@@ -171,7 +171,7 @@ pricing:
         - 500-1K uniques
         - You choose winners
       plan: Standard
-      price: '300'
+      price: '299'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - $200 prize for winner
@@ -184,7 +184,7 @@ pricing:
         - 500-1K unique Namers
         - You choose the winner
       plan: Premium
-      price: '500'
+      price: '499'
 valuesX:
   - heading: 1,000+ Names
     text: We create over 1,000 names on premium name contests. Over 500 Namers will
