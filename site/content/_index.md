@@ -165,23 +165,23 @@ pricing:
       items:
         - $100 prize for the winner
         - Usually 800+ names
-        - Names ranked by Naming Force
-        - Domain name registration check
-        - US Trademark check on all names
-        - Usually 500-1K unique Namers
-        - You choose the winner
+        - Names ranked by KEYSOME
+        - COM registration check
+        - Trademark checks
+        - 500-1K uniques
+        - You choose winners
       plan: Standard
       price: '300'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
-        - $200 prize for the winner
+        - $200 prize for winner
         - Usually 1,000+ names
-        - Names ranked by Naming Force
-        - Domain name registration check
-        - US Trademark check on all names
-        - Social media name check on names
+        - Names ranked by KEYSOME
+        - Domain registration
+        - Trademark checks
+        - SM check on names
         - Private contest w/ NDA
-        - Usually 500-1K unique Namers
+        - 500-1K unique Namers
         - You choose the winner
       plan: Premium
       price: '500'
