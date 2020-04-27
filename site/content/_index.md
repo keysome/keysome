@@ -136,8 +136,7 @@ pricing:
       items:
         - $25 prize for the winner
         - Usually 500+ names
-        - Usually 500-1K unique Namers
-        - You choose the winner
+        - Usually 50-100 unique names
       plan: Budget
       price: '99'
     - description: 'Serious about naming your startup?'
@@ -147,8 +146,7 @@ pricing:
         - Names ranked by KEYSOME
         - COM registration check
         - Trademark checks
-        - 500-1K uniques
-        - You choose winners
+        - 500-1K unique names
       plan: Standard
       price: '299'
     - description: Need 1000s of suggestions?
@@ -160,8 +158,7 @@ pricing:
         - Trademark checks
         - SM check on names
         - Private contest w/ NDA
-        - 500-1K unique Namers
-        - You choose the winner
+        - 500-1K unique names
       plan: Premium
       price: '499'
 valuesX:
