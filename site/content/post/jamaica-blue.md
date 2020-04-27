@@ -1,27 +1,24 @@
 ---
-title: "Just in: small batch of Jamaican Blue Mountain in store next week"
-date: 2020-04-09T15:04:10.000Z
-description: We’re proud to announce that we’ll be offering a small batch of
-  Jamaica Blue Mountain coffee beans in our store next week.
+title: No brand names are perfect
+date: 2020-04-27T00:47:56.811Z
+description: Are you trying to name a startup incubator? Are you trying to name
+  an auto business? Are you looking for a down-to-earth health food brand name?
+  Names for businesses can cover a variety of angles in social media.
 ---
+Are you trying to name a startup incubator? Are you trying to name an auto business? Are you looking for a down-to-earth health food brand name? Names for businesses can cover a variety of angles in social media.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Consumers often like how your brand name looks and sounds. If they do, it’s much more likely that they’ll want to learn more about your business and talk to friends about your brand. Your users should be able to remember your brand "on-the-fly" and refer it to their family or friends, rather it is most likely you won’t be at the top of consumer's minds when it comes time for the referral if it takes quite sometime for them to recall the same. Naming is a interactive, creative process and if you need a great name, and are struck looking for fresh ideas try KEYSOME. 
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## Think Words Can Hurt You?
 
-## A little history
+ Business names for usually speak to authority, protection, and strength, and startup names are often catchy, compound words contrasting to business that focuses on learning or brainstorming. Business names for an agency should speak to the aspirations of those you are supporting. In short, while naming, don't let a cringey, embarrassing, or offensive business name hold your brand back! 
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+> KEYSOME helps you save yourself from heartache of choosing a perfect name for your startup business, product, or service. 
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+The perfect name for your startup is waiting. Go out and find it. As a business developer it might be often hard to figure what name fits best. Secondly, to know if a COM domain name with that word can be hand-regged. Thirdly, is it trademark-free across all countries, and continents? There are so many avenues to explore futher and KEYSOME is here to help. We offer a fantastic platform for branding experts to pick a great name, and our team works on to figure if the best 1% is workable! Choosing a name that is already trademarked will not only ruin your shot at being unique but may cause legal trouble. We help business confirm that a related COM domain and associated social media handles are available before our clients do settle on a name.
 
 ## What you need to know before trying
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+> Running a linguistic analysis on a potential name can help you avoid awkward or embarrassing naming blunders.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+What's in a name? Well, tons of value, for one. Every brand name has a story. It's out there somewhere! The proof is in the reviews, the submissions and the from the realm of the clutter arises a high end, preeminent, weighty, or trustworthy brand. As a first chance to establish common ground, try to capture a story in your business name like FabMonday. Use your business name to connect with your audience in a meaningful way. Every brand name sucks, but with our help you can prove this wrong.
