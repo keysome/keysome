@@ -13,4 +13,4 @@
 }
 /* @media (min-width: 768px) { .products { width: 50% !important; } } */ 
 .portfolioX:nth-child(2n) {  background-color: #f7f7f7 !important; } 
-
+.f4 { margin: 5px !important; font-style: italic; }
