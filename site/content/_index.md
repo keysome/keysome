@@ -78,7 +78,7 @@ products:
       link: "/products"      
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: KEYSOME offers revenue-driving search optimization and digital marketing strategy for forward-thinking teams. KEYSOME is a startup for anyone who believes great ideas deserve its best. The real question is — How much is your time worth?
 heading: What we offer
 description: >-
   Your brand is a long-term commitment, so make sure it shows off your personality. Do you know your target audience? What are you chasing? With a great name, it's your time to be right. KEYSOME helps you find a name that sticks. If your brand name isn't up to scratch, then you'll miss out on traffic and conversions & make your business will always stand out. 
@@ -98,10 +98,7 @@ intro:
         Pay a fraction of cost versus hiring an agency. We have policies in place to ensure that you are satisfied with your experience. Ready to get started? Launch a contest and start receiving submissions instantly.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Don’t overthink your brand name. A name that allows just a little more buzz is a name that helps you grow. Controlling your tone will help you hone your business naming process. A good brand name will bolster your business by giving your audience a point of connection and helping the brand stand out from the crowd.
 main:
   heading: Great coffee with no compromises
   description: >
