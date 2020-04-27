@@ -1,6 +1,8 @@
 ---
 title: "Business Naming, GAMIFIED!"
-subtitle: 1. Namers Submit Names    2. We Rank Names   3. You Choose a Winner
+subtitle: 1. Namers Submit Names    
+2. We Rank Names   
+3. You Choose a Winner
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why KEYSOME?
