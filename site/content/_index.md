@@ -9,15 +9,15 @@ introX:
     heading: "What we offer"
     text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
 productsX:
-    - image: img/electricity.svg
+    - image: img/one.svg
       hX: "Step1"
       zX: "7 Days"
       text: "The worlds most creative namers submit business name suggestions on your contest. Our team creates brilliant names for your startup."
-    - image: img/star.svg
+    - image: img/two.svg
       hX: "Step2"
       zX: "2 Days"
       text: "Our in-house market research ranks the name submissions from top to bottom. You are delivered a list of names with the very best names at the top.."
-    - image: /img/cup.svg
+    - image: /img/three.svg
       hX: "Step3"
       zX: "2 Days"
       text: "Your ranked name listed are checked for trademarks, domain name availability. You pick a winning name and winner gets paid."
