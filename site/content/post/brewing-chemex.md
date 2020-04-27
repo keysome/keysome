@@ -1,7 +1,7 @@
 ---
 title: Does your brand start conversations?
 date: 2020-04-27T00:39:01.920Z
-description: An intriguing business name captivates audiences and leads them to
+description: An intriguing brand captivates audiences and leads them to
   investigate your business. Once you’ve decided on a few business name ideas,
   you’ll want to get unbiased feedback. Need brand ideas & inspiration? Try
   KEYSOME.
