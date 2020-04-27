@@ -7,7 +7,7 @@ blurb:
     text: "Our unique approach allows you to receive an unmatched breadth of business name ideas from world's largest community of naming experts. Find the perfect name for your brand and ensure you receive more ideas from our top-quality creatives and pick your name with confidence."
 introX:
     heading: "What we offer"
-    text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create business names, product names, domain names and taglines for start-ups across the world."
+    text: "KEYSOME provides company naming services through hosting crowdsourced naming contests. Our namers create product names and domain names for start-ups across the world."
 productsX:
     - image: img/one.svg
       hX: "Step1"
