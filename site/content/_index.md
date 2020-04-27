@@ -139,7 +139,7 @@ pricing:
         - Usually 50-100 unique names
       plan: Budget
       price: '99'
-    - description: 'Serious about naming your startup?'
+    - description: Perfect for startups
       items:
         - $100 prize for the winner
         - Usually 800+ names
