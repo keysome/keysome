@@ -21,4 +21,6 @@ The perfect name for your startup is waiting. Go out and find it. As a business 
 
 > Running a linguistic analysis on a potential name can help you avoid awkward or embarrassing naming blunders.
 
-What's in a name? Well, tons of value, for one. Every brand name has a story. It's out there somewhere! The proof is in the reviews, the submissions and the from the realm of the clutter arises a high end, preeminent, weighty, or trustworthy brand. As a first chance to establish common ground, try to capture a story in your business name like FabMonday. Use your business name to connect with your audience in a meaningful way. Every brand name sucks, but with our help you can prove this wrong.
+What's in a name? Well, tons of value, for one. Every brand name has a story. It's out there somewhere! The proof is in the reviews, the submissions and the from the realm of the clutter arises a high end, preeminent, weighty, or trustworthy brand. 
+
+As a first chance to establish common ground, try to capture a story in your business name like FabMonday. Use your business name to connect with your audience in a meaningful way. Every brand name sucks, but with our help you can prove this wrong.
