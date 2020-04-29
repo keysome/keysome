@@ -119,7 +119,7 @@ testimonials:
   - author: Founder, BARNFUL.COM
     quote: >-
       Perfect for a small business. We got a brand that is so intutive. Everyone was very helpful in collaborating...
-  - author: Owner, Las Vegas DJ & Production
+  - author: Owner, Las Vegas DJ & Production LVDP.COM
     quote: >-
       KEYSOME is the place to go if you want the best quality branding. I got the exact match domain name I wanted for my business, sweet sauce!
 full_image: /img/products-full-width.jpg
