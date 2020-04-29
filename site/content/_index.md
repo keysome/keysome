@@ -100,12 +100,9 @@ intro:
   description: >
     Don’t overthink your brand name. A name that allows just a little more buzz is a name that helps you grow. Controlling your tone will help you hone your business naming process. A good brand name will bolster your business by giving your audience a point of connection and helping the brand stand out from the crowd.
 main:
-  heading: Great coffee with no compromises
+  heading: Need help acquiring a domain name?
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    KEYSOME is a domain broker with expertise in the stealth acquisitions of domain names.  Leverage our decades of experience negotiating domain acquisitions with stealth and anonymity which means you save money.  By working with us, you will have access to the largest portfolio of public and private domains in the industry.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
