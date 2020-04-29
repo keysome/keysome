@@ -116,11 +116,10 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Founder, BARNFUL.COM
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Owner, LVDP.COM
+      Perfect for a small business. We got a brand that is so intutive. Everyone was very helpful in collaborating...
+  - author: Owner, Las Vegas DJ & Production
     quote: >-
       KEYSOME is the place to go if you want the best quality branding. I got the exact match domain name I wanted for my business, sweet sauce!
 full_image: /img/products-full-width.jpg
