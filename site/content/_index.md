@@ -121,7 +121,7 @@ testimonials:
       Perfect for a small business. We got a brand that is so intutive. Everyone was very helpful in collaborating...
   - author: Owner, Las Vegas DJ & Production LVDP.COM
     quote: >-
-      KEYSOME is the place to go if you want the best quality branding. Got exact match our business, sweet sauce!
+      ..... KEYSOME is the place to go if you want the best quality branding. Got exact match our business, sweet sauce!
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
