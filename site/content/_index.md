@@ -105,10 +105,10 @@ main:
     KEYSOME is a domain broker with expertise in the stealth acquisitions of domain names.  Leverage our decades of experience negotiating domain acquisitions with stealth and anonymity which means you save money.  By working with us, you will have access to the largest portfolio of public and private domains in the industry.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/lvdp.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/barnful.png
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
