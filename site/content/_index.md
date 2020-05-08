@@ -121,11 +121,9 @@ testimonials:
       ..... KEYSOME is the place to go if you want the best quality branding. Got exact match for our business, sweet sauce!
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Pricing
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Impeccable pricing. Exclusive packages catering all genres of industry.
   plans:
     - description: Perfect for small business.
       items:
