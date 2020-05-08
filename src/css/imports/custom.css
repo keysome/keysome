@@ -27,8 +27,9 @@
   font-weight: bold;
   text-transform: uppercase;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left ;
+  justify-content: left;
+  font-family:inherit;
 }
 .sliderXX{
   height: 50px;
