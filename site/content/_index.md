@@ -111,7 +111,7 @@ main:
     image: /img/barnful.png
   image3:
     alt: FITZOP
-    image: /img/fitzop.png
+    image: /img/fitzop.jpg
 testimonials:
   - author: Founder, BARNFUL.COM
     quote: >-
