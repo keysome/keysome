@@ -60,6 +60,6 @@
   100% {margin-top:0px;}
 }
 
-
+.blur { color: transparent;  text-shadow: 0 0 20px #000; }
 
 
