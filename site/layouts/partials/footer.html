@@ -43,7 +43,7 @@
 					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
 					<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
 				</ul> --> <br /><br />
-				<p style="font-weight:bold; font-size:12px; text-align: right !important;">© 2022</p>
+				<p style="font-weight:bold; font-size:12px; text-align: right !important;">© <label id="yearX"></label></p>
 <!---	<p style="font-weight:bold; font-size:12px; text-align: right !important;">© 2020 OPENBRACE PRIVATE LIMITED CIN - U74999TN2016OPC111192 RoC, CHENNAI.</p> --->
 	
 			</div>
@@ -57,3 +57,8 @@
 {{ partial "svg" . }}
 
 <script src="/app.js"></script>
+<script>
+const d = new Date();
+let year = d.getFullYear();
+document.getElementById("yearX").innerHTML = year;
+</script>
