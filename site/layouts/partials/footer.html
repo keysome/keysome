@@ -43,7 +43,7 @@
 					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
 					<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
 				</ul> --> <br /><br />
-				<p style="font-weight:bold; font-size:12px; text-align: right !important;">©</p><p id="yearX"></p>
+				<p id="yearX" style="font-weight:bold; font-size:12px; text-align: right !important;"></p>
 <!---	<p style="font-weight:bold; font-size:12px; text-align: right !important;">© 2020 OPENBRACE PRIVATE LIMITED CIN - U74999TN2016OPC111192 RoC, CHENNAI.</p> --->
 	
 			</div>
@@ -60,5 +60,6 @@
 <script>
 const d = new Date();
 let year = d.getFullYear();
-document.getElementById("yearX").innerHTML = year;
+let copy = "@";
+document.getElementById("yearX").innerHTML = copy.concat(" ", year);
 </script>
